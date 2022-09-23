@@ -16,4 +16,5 @@
 ### Her atık kutusunun belli bir kapasitesi vardır o kapasiteye ulaşıldığı andan itibaren artık atık atılamaz,kullanıcının kutuyu boşaltması gerekir bu da kullanıcıya ek süre kazandırır.
 
 ### ![Ekran Görüntüsü (374)](https://user-images.githubusercontent.com/63016233/158990765-42113174-c214-4c80-be9b-c3419abd8ce3.png)
+
 ### ![Ekran Görüntüsü (375)](https://user-images.githubusercontent.com/63016233/158990850-796fcdf8-8a18-4479-a65c-408504322e0a.png)
